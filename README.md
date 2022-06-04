@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# ну я. иногда кипишь иногда кайфую иногда вот так программирую. 
 <!--
 **KotletoVM/KotletoVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
